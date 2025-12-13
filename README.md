@@ -30,6 +30,12 @@ python commoncrawl_search.py "https://li.st/Bourdain*" --all --download
 
 > Images **have been lost**. Other avenus had struck no luck. I'll try again later.
 
+Any and all emphasis, missing punctuation, cool grammar is all by Anthony Bourdain. The only
+modifications I have made is to the layout, to represent `li.st` as closely as possibly with 
+**no changes to the content.**
+
+> If you see these blocks, that's me commenting if pictures have been lost.
+
 ## Recovering what was lost
 
 From Greg's page, let's go and try each entry one by one, I'll put the table of what I wasn't
@@ -128,9 +134,142 @@ I like good spy novels. I prefer them to be realistic . I prefer them to be writ
 
 5. Agents of Innocence--David Ignatius <br/>
    Ignatius is a journalist not a spook, but this one, set in Beirut, hewed all too closely to still not officially acknowledged events. Great stuff.
+   
+## Hotel Slut (That's Me)
 
-## Lost pages
+> Recovered HTML in [hotel-slut-that-s-me](commoncrawl_downloads/CC-MAIN-2020-05/li.st/20200122120527_Bourdain_hotel-slut-that-s-me-6mxRnOOzqQizcDuaTN9mjr.html).
+
+I wake up in a lot of hotels, so I am fiercely loyal to the ones I love. A hotel where I know immediately wher I am when I open my eyes in the morning is a rare joy. Here are some of my favorites
+
+1. CHATEAU MARMONT ( LA) : if I have to die in a hotel room, let it be here. I will work in LA just to stay at the Chateau.
+2. CHILTERN FIREHOUSE (London): Same owner as the Chateau. An amazing Victorian firehouse turned hotel. Pretty much perfection
+3. THE RALEIGH (Miami): The pool. The pool!
+4. LE CONTINENTAL (Saigon): For the history.
+5. HOTEL OLOFSSON (Port au Prince): Sagging, creaky and leaky but awesome .
+6. PARK HYATT (Tokyo): Because I'm a film geek.
+7. EDGEWATER INN (Seattle): kind of a lumber theme going on...ships slide right by your window. And the Led Zep "Mudshark incident".
+8. THE METROPOLE (Hanoi): there's a theme developing: if Graham Greene stayed at a hotel, chances are I will too.
+9. GRAND HOTEL D'ANGKOR (Siem Reap): I'm a sucker for grand, colonial era hotels in Asia.
+10. THE MURRAY (Livingston,Montana): You want the Peckinpah suite
+
+### Steaming Hot Porn
+
+> Recovered HTML in [steaming-hot-porn](commoncrawl_downloads/CC-MAIN-2018-09/li.st/20180225123714_Bourdain_steaming-hot-porn-5hqohJ4af5blrHINxY8OqM.html).
+
+from my phone
+
+1. Bun Bo Hue
+2. Kuching Laksa
+3. Pot au Feu
+4. Jamon
+5. Linguine
+6. Meat
+7. Dessert
+8. Light Lunch
+9. Meat on a Stick
+10. Oily Little Fish
+11. Snack
+12. Soup
+13. Homage
+    
+> Pictures in each have not been recovered.
+
+### 5 Photos on My Phone, Chosen at Random
+
+> Recovered HTML in [5-photos-on-my-phone-chosen-at-random](commoncrawl_downloads/CC-MAIN-2017-39/li.st/20170923054957_Bourdain_5-photos-on-my-phone-chosen-at-random-0nsXCpUt69UbZvcMsOh4P3.html).
+
+Not TOO random
+
+1. Madeline
+2. Beirut
+3. Musubi
+4. BudaeJiggae
+5. Dinner
+
+> Shame, indeed, no pictures, there was one for each.
+
+### People I’d Like to Be for a Day
+
+> Recovered HTML in [people-i-d-like-to-be-for-a-day](commoncrawl_downloads/CC-MAIN-2018-09/li.st/20180223011432_Bourdain_people-i-d-like-to-be-for-a-day-6RzWK74FUhdiWyRc1GTaeM.html).
+
+1. Bootsy Collins
+2. Bill Murray
+
+### I'm Hungry and Would Be Very Happy to Eat Any of This Right Now
+
+> Recovered HTML in [i-m-hungry-and-would-be-very-happy-to-eat-any-of-this-right-now](commoncrawl_downloads/CC-MAIN-2018-09/li.st/20180222071826_Bourdain_i-m-hungry-and-would-be-very-happy-to-eat-any-of-this-right-now-1pp6u1q4z0aDg3e4LOVbMn.html).
+
+1. Spaghetti a la bottarga . I would really, really like some of this. Al dente, lots of chili flakes
+2. A big, greasy double cheeseburger. No lettuce. No tomato. Potato bun.
+3. A street fair sausage and pepper hero would be nice. Though shitting like a mink is an inevitable and near immediate outcome
+4. Some uni. Fuck it. I'll smear it on an English muffin at this point.
+5. I wonder if that cheese is still good?
+
+### Observations From a Beach
+
+> Recovered HTML in [observations-from-a-beach](commoncrawl_downloads/CC-MAIN-2017-30/li.st/20170722185829_Bourdain_observations-from-a-beach-0X3d0NujKKomnM2HIukguv.html).
+
+In which my Greek idyll is Suddenly invaded by professional nudists
+
+1. Endemic FUPA. Apparently a prerequisite for joining this outfit.
+2. Pistachio dick
+3. 70's bush
+4. T-shirt and no pants. Leading one to the obvious question : why bother?
+
+### Guilty Pleasures
+
+> Recovered HTML in [guilty-pleasures](commoncrawl_downloads/CC-MAIN-2017-34/li.st/20170819134549_Bourdain_guilty-pleasures-1UslAzn8zE50JJvhbBmMmu.html).
+
+1. Popeye's Mac and Cheese
+2. The cheesy crust on the side of the bowl of Onion Soup Gratinee
+3. Macaroons . Not macarons . Macaroons
+4. Captain Crunch
+5. Double Double Animal Style
+6. Spam Musubi
+7. Aerosmith
+
+### Some New York Sandwiches
+
+> Recovered HTML in [some-new-york-sandwiches](commoncrawl_downloads/CC-MAIN-2017-34/li.st/20170823084629_Bourdain_some-new-york-sandwiches-1UsJj9WoWSEIEEAhdMu2EK.html).
+
+Before he died, Warren Zevon dropped this wisdom bomb: "Enjoy every sandwich". These are a few locals I've particularly enjoyed:
+
+1. PASTRAMI QUEEN: (1125 Lexington Ave. ) Pastrami Sandwich. Also the turkey with Russian dressing is not bad. Also the brisket.
+2. EISENBERG'S SANDWICH SHOP: ( 174 5th Ave.) Tuna salad on white with lettuce. I'd suggest drinking a lime Rickey or an Arnold Palmer with that.
+3. THE JOHN DORY OYSTER BAR: (1196 Broadway) the Carta di Musica with Bottarga and Chili is amazing. Is it a sandwich? Yes. Yes it is.
+4. RANDOM STREET FAIRS: (Anywhere tube socks and stale spices are sold. ) New York street fairs suck. The same dreary vendors, same bad food. But those nasty sausage and pepper hero sandwiches are a siren song, luring me, always towards the rocks. Shitting like a mink almost immediately after is guaranteed but who cares?
+5. BARNEY GREENGRASS : ( 541 Amsterdam Ave.) Chopped Liver on rye. The best chopped liver in NYC.
+
+### Great Dead Bars of New York
+
+> Recovered HTML in [great-dead-bars-of-new-york](commoncrawl_downloads/CC-MAIN-2017-34/li.st/20170821045245_Bourdain_great-dead-bars-of-new-york-1UsJAwt2gvx85J4MeUca5A.html).
+
+A work in progress
+
+1. SIBERIA in any of its iterations. The one on the subway being the best
+2. LADY ANNES FULL MOON SALOON a bar so nasty I'd bring out of town visitors there just to scare them
+3. THE LION'S HEAD old school newspaper hang out
+4. KELLY'S on 43rd and Lex. Notable for 25 cent drafts and regularly and reliably serving me when I was 15
+5. THE TERMINAL BAR legendary dive across from port authority
+6. BILLY'S TOPLESS (later, Billy's Stopless) an atmospheric, working class place, perfect for late afternoon drinking where nobody hustled you for money and everybody knew everybody. Great all-hair metal jukebox . Naked breasts were not really the point.
+7. THE BAR AT HAWAII KAI. tucked away in a giant tiki themed nightclub in Times Square with a midget doorman and a floor show. Best place to drop acid EVER.
+8. THE NURSERY after hours bar decorated like a pediatrician's office. Only the nursery rhyme characters were punk rockers of the day.
+
+## Lost page
+
+I was surprised to see that only one page was not recoverable from the common crawl.
 
 | Title | Date |
 |-|-|
-| David Bowie Related | 1/14/2016| 
+| David Bowie Related | 1/14/2016|
+
+# What's next?
+
+I've enjoyed this little project tremendously---a little archeology project. Can we declare victory for at least this 
+endeavor? Hopefully, we would be able to find images, but that's a little tougher, since that era's cloudfront is fully
+gone.
+
+What else can we work on restoring and setting up some sort of a public archive to store them? I made this a git repository
+for the sole purpose so that anyone interested can contribute their interest and passion for these kinds of projects.
+
+Thank you and until next time!
