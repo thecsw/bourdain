@@ -114,19 +114,19 @@ material things I feel a strange, possibly unnatural attraction to and will buy 
 
 I like good spy novels. I prefer them to be realistic . I prefer them to be written by real spies. If the main character carries a gun, I'm already losing interest. Spy novels should be about betrayal.
 
-1. Ashenden--Somerset Maugham
+1. Ashenden--Somerset Maugham <br/>
    Somerset wrote this bleak, darkly funny, deeply cynical novel in the early part of the 20th century. It was apparently close enough to the reality of his espionage career that MI6 insisted on major excisions. Remarkably ahead of its time in its atmosphere of futility and betrayal.
 
-2. The Man Who Lost the War--WT Tyler
+2. The Man Who Lost the War--WT Tyler <br/>
    WT Tyler is a pseudonym for a former "foreign service" officer who could really really write. This one takes place in post-war Berlin and elsewhere and was, in my opinion, wildly under appreciated. See also his Ants of God.
 
-3. The Human Factor--Graham Greene
+3. The Human Factor--Graham Greene <br/>
    Was Greene thinking of his old colleague Kim Philby when he wrote this? Maybe. Probably. See also Our Man In Havana.
 
-4. The Tears of Autumn -Charles McCarry
+4. The Tears of Autumn -Charles McCarry <br/>
    A clever take on the JFK assassination with a Vietnamese angle. See also The Miernik Dossier and The Last Supper
 
-5. Agents of Innocence--David Ignatius
+5. Agents of Innocence--David Ignatius <br/>
    Ignatius is a journalist not a spook, but this one, set in Beirut, hewed all too closely to still not officially acknowledged events. Great stuff.
 
 ## Lost pages
