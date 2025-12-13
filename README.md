@@ -3,7 +3,7 @@
 Loved reading through *GReg TeChnoLogY*'s 
 [Anthony Bourdain's Lost Li.st's](https://bourdain.greg.technology/) and seeing
 the list of lost Anthony Bourdain li.st's made me think on whether at least *some*
-of them are indeed recoverable.
+of them we can recover.
 
 Having worked in security and crawling space for majority of my career---I don't have
 the access nor permission to use the proprietary storages---I thought we might be able
@@ -31,12 +31,12 @@ python commoncrawl_search.py "https://li.st/Bourdain*" --all --download
 > Images **have been lost**. Other avenus had struck no luck. I'll try again later.
 
 Any and all emphasis, missing punctuation, cool grammar is all by Anthony Bourdain. The only
-modifications I have made is to the layout, to represent `li.st` as closely as possibly with 
+modifications I have made is to the layout, to represent `li.st` as closely as possible with 
 **no changes to the content.**
 
 > If you see these blocks, that's me commenting if pictures have been lost.
 
-## Recovering what was lost
+## Recovering what we lost
 
 From Greg's page, let's go and try each entry one by one, I'll put the table of what I wasn't
 able to find in *Common Crawl*, but I would assume exists elsewhere---I'd be happy to take another
@@ -257,7 +257,7 @@ A work in progress
 
 ## Lost page
 
-I was surprised to see that only one page was not recoverable from the common crawl.
+It was surprising to see that only one page was not recoverable from the common crawl.
 
 | Title | Date |
 |-|-|
