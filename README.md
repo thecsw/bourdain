@@ -9,6 +9,10 @@ Having worked in security and crawling space for majority of my career---I don't
 the access nor permission to use the proprietary storages---I thought we might be able
 to find something from publicly available crawl archives.
 
+This article has also been discussed on [hackernews](https://news.ycombinator.com/item?id=46258163).
+Also, a week before I published this, *mirandom* had the same idea as me and published
+[their findings](https://mirandrom.github.io/bourdain-lists/)---go check them out.
+
 ## Common Crawl
 
 If *Internet Archive* had the partial list that Greg published, what about the *Common Crawl*?
